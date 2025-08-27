@@ -1,5 +1,9 @@
-Viwer - pasta recources
+Views - pasta recources
 
-viwes(Pasta HTML)
- 
+views(Pasta HTML)
+    php artisan make:view teste(criar um novo viwer) 
+
+routes(pasta PHP)
+     Web.php - Ultilizado para chamar algum arquivo
+
 
